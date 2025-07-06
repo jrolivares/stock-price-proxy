@@ -1,0 +1,48 @@
+Last login: Sun Jul  6 18:33:40 on ttys000
+jrolivares@Mac ~ % nano package.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                   File: package.json                   Modified  
+
+{
+  "name": "stock-price-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to fetch stock prices from Yahoo Finance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.11",
+    "cors": "^2.8.5"
+  }
+}
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
